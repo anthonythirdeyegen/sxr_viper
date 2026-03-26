@@ -58,6 +58,8 @@
      <Compile Include="Assets\Scripts\ViperHandPose.cs" />
      <Compile Include="Assets\Scripts\ViperHeadPose6Dof_NoSmoothing.cs" />
      <Compile Include="Assets\Scripts\ViperPoseDebugTMP.cs" />
+     <Compile Include="Assets\Scripts\ViperTrackedTarget.cs" />
+     <Compile Include="Assets\Scripts\ViperTrackingOrigin.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
